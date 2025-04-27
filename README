@@ -43,46 +43,15 @@ I thrive on building scalable AI systems, researching interpretable machine lear
 
 **University of Houston | Instructional Assistant**  
 *Nov 2023 – Present*
-- Engineered Generative AI tools with GPT-4, LLaMA, and Qwen.
-- Fine-tuned LLMs using LoRA on financial case studies, reducing evaluation time by 65%.
-- Led workshops on transformers and deep learning for staff, enhancing AI fluency.
 
 **Intellectyx Data Science, Coimbatore, India | Full-time Intern**  
 *Aug 2022 – Jul 2023*
-- Built ensemble anomaly detection models (GTA, GDN, LSTM-NDT).
-- Improved stock prediction pipeline accuracy from 78% to 89%.
-- Deployed real-time ML pipelines for stock forecasting.
 
 **Samsung PRISM, Bengaluru, India | Research Analyst**  
 *Sep 2021 – May 2022*
-- Researched interpretability techniques (SHAP, CEM, LIME) for deep learning.
-- Developed an XAI framework for production AI systems.
-- Integrated ethical AI principles for enhanced model transparency.
 
 ---
 
-## 📊 Projects Showcase
-
-**Restaurant Review Analysis using LLMs and Vector Databases**
-- Designed semantic search pipelines using LangChain and ChromaDB.
-- Enhanced retrieval accuracy by 35%.
-
-**Judgment Prediction using Large Language Models (LLMs)**
-- Fine-tuned BERT on Indian legal judgments.
-- Achieved 91% prediction accuracy with domain-specific adaptation.
-
-**Quora Question Pair Similarity Detection**
-- Built a custom Siamese BERT model for duplicate question detection.
-- Achieved a 13% improvement over standard BERT models.
-
-**Deep Learning-Based Steering Angle Estimation for Autonomous Driving**
-- Developed a CNN-based steering prediction model using Udacity Dataset.
-- Achieved 90% success rate under varied driving conditions.
-
-**News Articles Analysis using Topic Modeling Techniques**
-- Applied LDA and LSA to extract high-coherence themes from news data.
-
----
 
 ## 📅 Education
 
