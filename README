@@ -1,79 +1,115 @@
 # Hi there! 👋 I'm Vishnu Sai Inakollu
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Data+Science+Engineer+%7C+LLM+Fine-tuning+Specialist;Deep+Learning+%7C+NLP+%7C+Generative+AI+Explorer"/>
-</p>
-
 ---
 
 ## 📖 About Me
 
 Hey there! I'm Vishnu, currently pursuing a **Master's in Engineering Data Science** at the **University of Houston** (Graduating **May 2025**).
 
-I'm passionate about:
-- **Deep Learning**
-- **Natural Language Processing (NLP)**
-- **Generative AI and LLM Fine-tuning**
-- **Time Series Analysis**
-- **XAI (Explainable AI)**
+I'm deeply passionate about:
+- Deep Learning
+- Natural Language Processing (NLP)
+- Generative AI and LLM Fine-tuning
+- Time Series Analysis
+- Explainable AI (XAI)
 
-I enjoy building scalable AI systems, researching interpretable machine learning models, and developing impactful solutions through cutting-edge technologies! 🚀
-
----
-
-## 🛠️ Tools & Technologies
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-### Frameworks & Libraries
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-00BFFF?style=for-the-badge&logo=chainlink&logoColor=white)
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-8B008B?style=for-the-badge)
-
-### Platforms & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+I thrive on building scalable AI systems, researching interpretable machine learning models, and creating impactful real-world solutions.
 
 ---
 
-## 🌟 Featured Projects
+## 🛠️ Skills & Expertise
 
-- **Restaurant Review Analysis using LLMs and Vector Databases**
-- **Judgment Prediction using Large Language Models (LLMs)**
-- **Quora Question Pair Similarity Detection**
-- **Deep Learning-Based Steering Angle Estimation for Autonomous Driving**
-- **News Articles Analysis using Topic Modeling Techniques**
+**Programming Languages:** Python, R, MATLAB, SQL
 
----
+**Machine Learning:** Supervised and Unsupervised Learning, Regression, Classification, Clustering, Ensemble Methods, Time Series Forecasting, Anomaly Detection, Model Selection, Hyperparameter Tuning
 
-## 🔗 Connect with Me!
+**Deep Learning:** CNNs, RNNs, LSTMs, Transformers, Attention Mechanisms, Autoencoders, Neural ODEs
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inakollu-vishnu-sai)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivsvishnusai03@gmail.com)
+**Data Engineering:** Pandas, NumPy, Scikit-learn, Gensim, NLTK, SpaCy, Feature Engineering
 
----
+**Generative AI:** GPT-4, LLaMA, GEMINI, Hugging Face Transformers, LangChain, OpenAI API, RAG (Retrieval-Augmented Generation), Fine-tuning LLMs (LoRA, QLoRA, PEFT), Prompt Engineering
 
-## 📊 GitHub Stats
+**Deployment & MLOps:** Docker, Git, CI/CD, FastAPI, Streamlit, MLflow
 
-![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishnu955&show_icons=true&theme=radical)
+**Databases:** MySQL, MongoDB, SQLite, Apache Spark
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu955&layout=compact&theme=radical)
+**Visualization Tools:** Tableau, Power BI, Matplotlib, Seaborn, Plotly
+
+**Tools:** GitHub, GitLab, VSCode, LaTeX, Notion
 
 ---
 
-> "Building tomorrow's AI solutions, one model at a time." 🚀
+## 🌟 Professional Experience
+
+**University of Houston | Instructional Assistant**  
+*Nov 2023 – Present*
+- Engineered Generative AI tools with GPT-4, LLaMA, and Qwen.
+- Fine-tuned LLMs using LoRA on financial case studies, reducing evaluation time by 65%.
+- Led workshops on transformers and deep learning for staff, enhancing AI fluency.
+
+**Intellectyx Data Science, Coimbatore, India | Full-time Intern**  
+*Aug 2022 – Jul 2023*
+- Built ensemble anomaly detection models (GTA, GDN, LSTM-NDT).
+- Improved stock prediction pipeline accuracy from 78% to 89%.
+- Deployed real-time ML pipelines for stock forecasting.
+
+**Samsung PRISM, Bengaluru, India | Research Analyst**  
+*Sep 2021 – May 2022*
+- Researched interpretability techniques (SHAP, CEM, LIME) for deep learning.
+- Developed an XAI framework for production AI systems.
+- Integrated ethical AI principles for enhanced model transparency.
+
+---
+
+## 📊 Projects Showcase
+
+**Restaurant Review Analysis using LLMs and Vector Databases**
+- Designed semantic search pipelines using LangChain and ChromaDB.
+- Enhanced retrieval accuracy by 35%.
+
+**Judgment Prediction using Large Language Models (LLMs)**
+- Fine-tuned BERT on Indian legal judgments.
+- Achieved 91% prediction accuracy with domain-specific adaptation.
+
+**Quora Question Pair Similarity Detection**
+- Built a custom Siamese BERT model for duplicate question detection.
+- Achieved a 13% improvement over standard BERT models.
+
+**Deep Learning-Based Steering Angle Estimation for Autonomous Driving**
+- Developed a CNN-based steering prediction model using Udacity Dataset.
+- Achieved 90% success rate under varied driving conditions.
+
+**News Articles Analysis using Topic Modeling Techniques**
+- Applied LDA and LSA to extract high-coherence themes from news data.
+
+---
+
+## 📅 Education
+
+**University of Houston**  
+*Master’s in Engineering Data Science*  
+*GPA: 3.9/4.0 | Graduation: May 2025*
+
+**Amrita School of Computing, Bengaluru**  
+*Bachelor of Technology in Computer Science and Engineering (AI)*  
+*GPA: 8.47/10.0 | Graduated: June 2023*
+
+---
+
+## 🌐 Publications
+
+- **Word-Level Speech Recognition for Sourastra Using the Kaldi Toolkit**
+  - Published at IEEE INDICON 2022.
+
+- **Detection of Reading Impairment from Eye-Gaze Behaviour using Reinforcement Learning**
+  - Presented at ICMLDE 2022.
+
+---
+
+## 🏋️ Interests & Hobbies
+
+- AI Ethics and Model Transparency
+- Badminton, Cricket, Jogging
+- Photography
+
+---
