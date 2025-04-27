@@ -25,7 +25,7 @@ I thrive on building scalable AI systems, researching interpretable machine lear
 
 **Generative AI:** GPT-4, LLaMA, GEMINI, Hugging Face Transformers, LangChain, OpenAI API, RAG (Retrieval-Augmented Generation), Fine-tuning LLMs (LoRA, QLoRA, PEFT), Prompt Engineering
 
-**Deployment & MLOps:** Docker, Git, CI/CD, FastAPI, Streamlit, MLflow
+**Deployment & MLOps:** Docker, Git, Streamlit, MLflow
 
 **Databases:** MySQL, MongoDB, SQLite, Apache Spark
 
